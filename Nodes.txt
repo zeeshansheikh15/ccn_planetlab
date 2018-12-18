@@ -1,0 +1,20 @@
+planetlab-1.sjtu.edu.cn		|	PAIR 1
+planetlab3.rutgers.edu		|
+
+planetlab-02.bu.edu		|
+planetlab2.dtc.umn.edu		|	PAIR 2
+
+planetlab1.cs.purdue.edu	|
+pl1.rcc.uottawa.ca		|	PAIR 3
+
+planetlab3.cs.uoregon.edu
+planetlab-4.eecs.cwru.edu	----PERMANENT OUTAGE 
+
+planetlab2.cs.unc.edu		|
+planetlab1.cs.ubc.ca		|	PAIR 4
+
+salt.planetlab.cs.umd.edu	|
+planetlab1.aut.ac.nz		|	PAIR-5
+--------------------
+
+scp mi517674@csi516-fa18.arcc.albany.edu:/home1/s/m/mi517674/

@@ -1,0 +1,6 @@
+#!/bin/bash
+while :
+do
+	ping planetlab-02.bu.edu -c 20
+	sleep 3600
+done
